@@ -1,0 +1,1 @@
+Initiative to parse and annotate Bengali news in political alignment.
